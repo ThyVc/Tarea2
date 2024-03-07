@@ -1,0 +1,40 @@
+.principal{
+    background-color: blue;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: auto;
+    width: 94%;
+    
+}
+
+.caja1{
+    
+    background-color: darkorange;
+    margin: 5px;
+    height: 900px;
+    width: 400px;
+    
+    
+}
+
+.lote1{
+    margin-top: 2%;
+    float: left;
+    background-color: red;
+    margin-left:10%;
+    height: 30%;
+    width: 20%;
+    
+}
+
+.lote2{
+    margin-top: 5%;
+    float: left;
+    background-color: red;
+    margin-left:10%;
+    height: 10%;
+    width: 80%;
+}
+
